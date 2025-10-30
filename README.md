@@ -168,11 +168,15 @@ Execute the programs and publish them.
 </html>
 ```
 ## OUTPUT
-![alt text](map-1.png)
-![alt text](<Screenshot 2025-10-23 184139-1.png>)
-![alt text](<Screenshot 2025-10-23 184819-1.png>)
-![alt text](<Screenshot 2025-10-23 184838-1.png>)
-![alt text](<Screenshot 2025-10-23 184805-1.png>)
+<img width="1919" height="1018" alt="map" src="https://github.com/user-attachments/assets/e69d44f3-6135-414e-a164-97d0c5b5ac7d" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/47af53b9-216f-4200-ba2c-f08fc23c4106" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/039a0356-a061-4f77-b6b6-fe9b18e2c857" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/34674650-42e5-41f9-a292-d0344f19c56b" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0eb69566-e2f5-4aec-bb6e-5be8f9a7161e" />
 
 
 
