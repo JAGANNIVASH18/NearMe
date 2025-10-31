@@ -168,7 +168,8 @@ Execute the programs and publish them.
 </html>
 ```
 ## OUTPUT
-<img width="1919" height="1018" alt="map" src="https://github.com/user-attachments/assets/e69d44f3-6135-414e-a164-97d0c5b5ac7d" />
+<img width="1919" height="1136" alt="image" src="https://github.com/user-attachments/assets/2a0b68ea-47d0-4324-b382-d81e2ad814c1" />
+
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/47af53b9-216f-4200-ba2c-f08fc23c4106" />
 
